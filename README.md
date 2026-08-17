@@ -1,4 +1,3 @@
-# CSE 391 - Assignment 1
 Personal Portfolio Website: https://lutfur-rahman-sayem.netlify.app/
 
 ## Technologies Used
@@ -14,6 +13,6 @@ Personal Portfolio Website: https://lutfur-rahman-sayem.netlify.app/
 - W3C validated
 
 ## Folder Structure
-- /docs → Assignment documents & AI declaration
+- /docs → AI declaration
 - /images → Image assets
 - /fonts → Custom fonts
